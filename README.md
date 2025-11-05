@@ -1,6 +1,6 @@
 # DS-GA-1003-Machine-Learning
 
-Here are my notes and solutions for **DS-GA-1003: Machine Learning**, summarizing lecture materials, homework solutions, and mathematical foundations taught by *He He*.  
+Here are my notes and solutions for **DS-GA-1003: Machine Learning**, summarizing lecture materials, homework solutions, and mathematical foundations taught by [**Professor He He**](https://cds.nyu.edu/team/he-he/).  
 
 The course covers both theoretical and practical aspects of statistical learning, optimization, and modern machine learning models.
 
